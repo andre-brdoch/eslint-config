@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-base",
+  "name": "@andre-brdoch/eslint-config-base",
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [
