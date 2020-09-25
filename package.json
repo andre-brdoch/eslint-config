@@ -2,15 +2,19 @@
   "name": "eslint-config-base",
   "version": "1.0.0",
   "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andre Brdoch",
   "license": "ISC",
-  "devDependencies": {
-    "babel-eslint": "^10.1.0",
+  "peerDependencies": {
     "eslint": "^7.9.0"
   },
+  "devDependencies": {},
   "dependencies": {},
   "repository": {
     "type": "git",
