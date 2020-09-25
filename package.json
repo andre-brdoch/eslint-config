@@ -1,7 +1,6 @@
 {
-  "name": "eslint-config",
+  "name": "eslint-config-base",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +9,16 @@
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.9.0",
-    "eslint-plugin-vue": "^6.2.2"
-  }
+    "eslint": "^7.9.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre-brdoch/eslint-config-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andre-brdoch/eslint-config-base/issues"
+  },
+  "homepage": "https://github.com/andre-brdoch/eslint-config-base#readme",
+  "description": "Basic Eslint Config"
 }
