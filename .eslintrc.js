@@ -1,4 +1,5 @@
 module.exports = {
+  parser: "babel-eslint",
   rules: {
     'array-bracket-newline': [ 2, { multiline: true } ],
     'array-bracket-spacing': [ 2, 'always' ],

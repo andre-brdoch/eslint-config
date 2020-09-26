@@ -15,7 +15,9 @@
     "eslint": "^7.9.0"
   },
   "devDependencies": {},
-  "dependencies": {},
+  "dependencies": {
+    "babel-eslint": "^10.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andre-brdoch/eslint-config-base.git"
